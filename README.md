@@ -2,12 +2,12 @@
 # Overview
 This project is an in-depth analysis of multiple anonymous algorithms, exploring their run-time complexities, implementations, and practical applications. The project encompasses:
 
-   ## Run-time Analysis: ### Utilizing techniques discussed in class to analyze best and worst-case scenarios.
+   ### Run-time Analysis: Utilizing techniques discussed in class to analyze best and worst-case scenarios.
    ### Prediction: Estimating run-time for varying problem sizes to design comprehensive test cases.
-   # Implementation: Developing the algorithms using Python.
-   # Testing: Measuring run-time across different problem sizes to obtain empirical data.
-   # Comparison: Evaluating measured versus predicted run-time and explaining any discrepancies.
-   # Understanding: Determining the functionality and significance of each algorithm.
+   ### Implementation: Developing the algorithms using Python.
+   ### Testing: Measuring run-time across different problem sizes to obtain empirical data.
+   ### Comparison: Evaluating measured versus predicted run-time and explaining any discrepancies.
+   ### Understanding: Determining the functionality and significance of each algorithm.
 
 # Algorithm Characteristics
 
