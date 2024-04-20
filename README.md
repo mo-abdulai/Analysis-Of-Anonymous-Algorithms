@@ -1,5 +1,5 @@
-#Analysis of Anonymous Algorithms - CSC 625 Project 2
-#Overview
+# Analysis of Anonymous Algorithms - CSC 625 Project 2
+# Overview
 
 This project is an in-depth analysis of multiple anonymous algorithms, exploring their run-time complexities, implementations, and practical applications. The project encompasses:
 
